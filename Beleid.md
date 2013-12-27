@@ -1,3 +1,6 @@
+{ "layout": "post", "title": "Beleid AHC IJnurg", "date": "27/12/2013", "description": "Eerste aanzet tot beleid", "tags": [ "hockey", "IJburg", "vision" ] }
+
+
 De start
 --------
 Een aantal ervaren hockeyers hebben medio 2011 het eerste herenteam opgericht. De aanleiding was enerzijds dat er behoefte was aan meer uitdaging dan bij de trimcompetitie mogelijk was, en anderzijds dat de club geen seniorenteams had.
